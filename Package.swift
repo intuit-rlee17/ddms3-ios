@@ -5,8 +5,7 @@ let package = Package(
     name: "IntuitDDMSTokens",
     platforms: [.iOS(.v13)],
     products: [
-        .library(name: "IntuitDDMSTokens", targets: ["IntuitDDMSTokens"]),
-        .library(name: "DDMSSemanticColors", targets: ["DDMSSemanticColors"]),
+        .library(name: "IntuitDDMSTokens", targets: ["IntuitDDMSTokens"])
     ],
     targets: [
         .binaryTarget(
