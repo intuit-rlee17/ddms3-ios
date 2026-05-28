@@ -12,12 +12,12 @@ let package = Package(
         .binaryTarget(
             name: "IntuitDDMSTokens",
             url: "https://github.com/intuit-rlee17/ddms3-ios-binaries/releases/download/25.39.1/IntuitDDMSTokens.xcframework.zip",
-            checksum: "3e055084570ef137f32367a9bedba18820ccf4a178d495da5319619ad2075c35"
+            checksum: "2b72a699c5402c0c4f3c45f6642754b76118b1d4f57242090d0db1acc176753e"
         ),
         .binaryTarget(
             name: "DDMSSemanticColors",
             url: "https://github.com/intuit-rlee17/ddms3-ios-binaries/releases/download/25.39.1/DDMSSemanticColors.xcframework.zip",
-            checksum: "37241273366e3727594353c7585958e395290562bc7a40de4a29948739b31497"
+            checksum: "3f0aff99667d0168a4a19fcfc937b2ab16dea344e6a2a8732927776cbfe4ea1e"
         ),
     ]
 )
